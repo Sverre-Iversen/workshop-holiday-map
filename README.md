@@ -1,4 +1,4 @@
-# Map your holiday - EuroCarto 2022 Workshop 
+# Map your holiday - EuroCarto 2022 Workshop  
 
 ## Workshop Prerequisites
 
